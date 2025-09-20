@@ -39,6 +39,9 @@ This project connects **Power BI** to the **WeatherAPI**, delivering live, histo
 
 ## 📷 Dashboard Preview
 
+![Dashboard Screenshot 1](./img.jpeg)
+![Dashboard Screenshot 2](./img2.jpeg)
+
 
 ## 📌 Use Cases
 - Personal or business weather monitoring
