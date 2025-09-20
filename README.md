@@ -31,7 +31,7 @@ This project connects **Power BI** to the **WeatherAPI**, delivering live, histo
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/insiya25/Live-Weather-Analysis-Dashboard-Power-BI-Weather-API.git
+   git clone https://github.com/insiya25/Live-Weather-Analysis-Dashboard-Power-BI-Weather-API-
 2. Get a free API key from WeatherAPI.
 3. Open the Power BI file (.pbix) in Power BI Desktop.
 4. Update the API connection with your WeatherAPI key.
